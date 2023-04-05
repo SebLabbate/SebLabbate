@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seb</h1>
 <h3 align="center">A full stack developer from England</h3>
 
-- 🔭 I’m currently working on **A Barber Shop Website**
+- 🔭 I’m currently working on **A Barber Shop Website for a local business.** I'll be making a sleek dark-mode website with a booking api, a blog and a gallery
 
 - 🌱 I’m currently learning **Javascript / React**
 
