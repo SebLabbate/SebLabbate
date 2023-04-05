@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript / React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SebLabbate/Melomane.git](https://github.com/SebLabbate/Melomane.git)
+- 👨‍💻 Check out my final bootcamp project - [https://github.com/SebLabbate/Melomane.git](https://github.com/SebLabbate/Melomane.git)
 
 - 💬 Ask me about **Ruby on Rails**
 
