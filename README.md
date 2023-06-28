@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seb</h1>
 <h3 align="center">A full stack developer from England</h3>
 
-- 🔭 I’m currently working on **A Barber Shop Website for a local business.** I'll be making a sleek dark-mode website with a booking api, a blog and a gallery
+- 🔭 I work for an **e-commerce business.** My job is primarily back end software development.
 
-- 🌱 I’m currently learning **Javascript / React**
+- 🌱 I’m currently learning **Python / Django**
 
 - 👨‍💻 Check out my final bootcamp project - [https://github.com/SebLabbate/Melomane.git](https://github.com/SebLabbate/Melomane.git)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **seb.94@hotmail.co.uk**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/v9op9gfvr1](https://flowcv.com/resume/v9op9gfvr1)
+- 📄 Learn about my experiences [https://flowcv.com/resume/v9op9gfvr1](https://flowcv.com/resume/v9op9gfvr1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
